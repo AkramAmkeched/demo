@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
 
-        System.out.println("This is a test of the Java program.");
+        System.out.println("Afegim Segona Linia");
+        System.out.println("Afegim Tercera Linia");
     }
 }
