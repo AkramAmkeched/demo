@@ -9,5 +9,8 @@ public class Main {
 
         System.out.println("Afegim Una linia des de el visual studio code");
 
+        if (1 != 4) {
+            System.out.println("Fa algo");
+        }
     }
 }
